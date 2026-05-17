@@ -1,0 +1,76 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kaustubh Bhal GitHub profile banner</title>
+  <desc id="desc">A custom profile banner with bold typography, data-inspired graphics, and a dark blue palette with teal and amber highlights.</desc>
+  <defs>
+    <linearGradient id="bg" x1="84" y1="38" x2="1088" y2="392" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#081423"/>
+      <stop offset="0.55" stop-color="#10263D"/>
+      <stop offset="1" stop-color="#061018"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(230 110) rotate(44.6) scale(386 226)">
+      <stop stop-color="#5EEAD4" stop-opacity="0.23"/>
+      <stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 320) rotate(176.2) scale(316 184)">
+      <stop stop-color="#F59E0B" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#9BD8E4" stroke-opacity="0.08"/>
+    </pattern>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="32" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="32" fill="url(#grid)"/>
+  <ellipse cx="230" cy="110" rx="260" ry="160" fill="url(#glowA)"/>
+  <ellipse cx="980" cy="320" rx="220" ry="120" fill="url(#glowB)"/>
+
+  <g opacity="0.9">
+    <path d="M776 110L890 78L998 132L1058 88" stroke="#68E0F6" stroke-width="3"/>
+    <path d="M776 188L874 226L962 188L1066 238" stroke="#FFB454" stroke-width="3"/>
+    <circle cx="776" cy="110" r="8" fill="#081423" stroke="#68E0F6" stroke-width="3"/>
+    <circle cx="890" cy="78" r="8" fill="#081423" stroke="#68E0F6" stroke-width="3"/>
+    <circle cx="998" cy="132" r="8" fill="#081423" stroke="#68E0F6" stroke-width="3"/>
+    <circle cx="1058" cy="88" r="8" fill="#081423" stroke="#68E0F6" stroke-width="3"/>
+    <circle cx="776" cy="188" r="8" fill="#081423" stroke="#FFB454" stroke-width="3"/>
+    <circle cx="874" cy="226" r="8" fill="#081423" stroke="#FFB454" stroke-width="3"/>
+    <circle cx="962" cy="188" r="8" fill="#081423" stroke="#FFB454" stroke-width="3"/>
+    <circle cx="1066" cy="238" r="8" fill="#081423" stroke="#FFB454" stroke-width="3"/>
+  </g>
+
+  <g filter="url(#soft)">
+    <rect x="744" y="258" width="330" height="98" rx="20" fill="#07111B" fill-opacity="0.74"/>
+  </g>
+  <rect x="744" y="258" width="330" height="98" rx="20" fill="#091827" fill-opacity="0.76" stroke="#294763"/>
+  <text x="774" y="294" fill="#68E0F6" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="14" letter-spacing="1.8">CURRENT SIGNAL</text>
+  <text x="774" y="323" fill="#F4F1E8" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="25" font-weight="700">Public safety x graphs x product</text>
+  <text x="774" y="345" fill="#C8D6E5" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="16">Flock, graph ML, simulations, devtools,</text>
+  <text x="774" y="365" fill="#C8D6E5" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="16">and the occasional suspiciously polished weekend build.</text>
+
+  <g>
+    <rect x="72" y="78" width="130" height="28" rx="14" fill="#0E2437" stroke="#284863"/>
+    <text x="95" y="97" fill="#68E0F6" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">ATLANTA, GA</text>
+  </g>
+
+  <text x="72" y="168" fill="#F6F3EA" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="64" font-weight="700" letter-spacing="2">KAUSTUBH</text>
+  <text x="72" y="228" fill="#F59E0B" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="64" font-weight="700" letter-spacing="2">BHAL</text>
+  <text x="74" y="275" fill="#D2DEEB" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="24">Publicly: graphs, sims, AI tools, and projects with sharp edges.</text>
+  <text x="74" y="310" fill="#AFC4D9" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="18">Usually in Python or TypeScript. Usually trying to make complexity hold still.</text>
+
+  <g>
+    <rect x="74" y="338" width="122" height="34" rx="17" fill="#0B1F31" stroke="#294763"/>
+    <text x="99" y="360" fill="#F6F3EA" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="15">GRAPH ML</text>
+
+    <rect x="210" y="338" width="148" height="34" rx="17" fill="#0B1F31" stroke="#294763"/>
+    <text x="236" y="360" fill="#F6F3EA" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="15">TYPESCRIPT</text>
+
+    <rect x="372" y="338" width="128" height="34" rx="17" fill="#0B1F31" stroke="#294763"/>
+    <text x="398" y="360" fill="#F6F3EA" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="15">HACKATHONS</text>
+
+    <rect x="514" y="338" width="152" height="34" rx="17" fill="#0B1F31" stroke="#294763"/>
+    <text x="539" y="360" fill="#F6F3EA" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="15">BUILDER MODE</text>
+  </g>
+</svg>
