@@ -6,7 +6,7 @@ studying cs + business at georgia tech
 
 s'26 engineering fellow at kleiner perkins
 
-working on the video pipeline @ flock
+working on the video pipeline at flock
 
 building projects in AI, systems, networking, data, and anything that I think would be fun and impactful
 
