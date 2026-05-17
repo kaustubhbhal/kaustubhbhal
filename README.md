@@ -26,7 +26,7 @@ building projects in AI, systems, networking, data, and anything that I think wo
 - [`Black Swan`](https://github.com/kaustubhbhal/Black-Swan) — portfolio stress testing with monte carlo simulation and AI
 - [`GraphIQ`](https://github.com/kaustubhbhal/GraphIQ) — conversational visual learning with generated diagrams
 
-### in rotation
+### coding in
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
