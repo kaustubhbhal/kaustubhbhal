@@ -1,36 +1,43 @@
-<p align="center">
-  <a href="https://github.com/kaustubhbhal">GitHub</a>
-  ·
-  <a href="https://www.linkedin.com/in/kaustubh-bhal/">LinkedIn</a>
-  ·
-  <a href="https://devpost.com/kbhal3">Devpost</a>
+# kaustubh bhal
+
+working on cloud video at flock
+
+usually somewhere around AI, systems, data, and hackathon projects
+
+<p>
+  <a href="https://github.com/kaustubhbhal">
+    <img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/kaustubh-bhal/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://devpost.com/kbhal3">
+    <img src="https://img.shields.io/badge/devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" />
+  </a>
 </p>
 
-## about
+### in rotation
 
-I work on cloud video at Flock.
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-111111?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-Most of what shows up here is some mix of AI, systems, data, and hackathon projects.
+### github
 
-## github snapshot
-
-<p align="center">
+<p>
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=kaustubhbhal&show_icons=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=F59E0B&text_color=D2DEEB&icon_color=68E0F6&border_color=294763&bg_color=00000000"
-    alt="GitHub stats for kaustubhbhal"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhbhal&layout=compact&theme=transparent&title_color=F59E0B&text_color=D2DEEB&border_color=294763&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhbhal&theme=github_dark&hide_border=true&layout=compact&langs_count=8&hide=html,css,jupyter%20notebook"
     alt="Top languages for kaustubhbhal"
   />
-</p>
-
-<p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kaustubhbhal&bg_color=00000000&color=D2DEEB&line=68E0F6&point=F59E0B&area=true&hide_border=true"
-    alt="GitHub activity graph for kaustubhbhal"
-    width="100%"
+    height="170"
+    src="https://streak-stats.demolab.com?user=kaustubhbhal&theme=github-dark-blue&hide_border=true"
+    alt="GitHub streak for kaustubhbhal"
   />
 </p>
