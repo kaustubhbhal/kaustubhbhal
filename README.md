@@ -38,17 +38,7 @@ building projects in AI, systems, networking, data, and anything that I think wo
 
 ### interested in
 
-the context switching problem
-
-QUIC
-
-startups
-
-formula 1
-
-skiing
-
-music of any kind
+the context switching problem, QUIC, startups, formula 1, skiing, music of any kind
 
 
 
