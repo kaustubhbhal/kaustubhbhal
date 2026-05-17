@@ -36,16 +36,6 @@ building projects in AI, systems, networking, data, and anything that I think wo
 ![Postgres](https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### github
-
-<p>
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=kaustubhbhal&theme=github-dark-blue&hide_border=true"
-    alt="GitHub streak for kaustubhbhal"
-  />
-</p>
-
 ### interested in
 
 the context switching problem
