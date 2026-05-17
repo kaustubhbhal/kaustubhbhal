@@ -36,9 +36,9 @@ building projects in AI, systems, networking, data, and anything that I think wo
 ![Postgres](https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### interested in
+### interested in + learning about
 
-the context switching problem, QUIC, startups, formula 1, skiing, music of any kind
+the context switching problem, QUIC, congestion control using ML, healthcare AI, startups, formula 1, skiing, music of any kind
 
 
 
