@@ -1,8 +1,8 @@
-# kaustubh bhal
+# hi! i'm Kaustubh
 
-working on cloud video at flock
+currently working on the video pipeline @ flock
 
-usually somewhere around AI, systems, data, and hackathon projects
+i'm usually building projects in AI, systems, networking, data, and anything that I think would be fun
 
 <p>
   <a href="https://github.com/kaustubhbhal">
@@ -15,14 +15,3 @@ usually somewhere around AI, systems, data, and hackathon projects
     <img src="https://img.shields.io/badge/devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" />
   </a>
 </p>
-
-### in rotation
-
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-111111?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
