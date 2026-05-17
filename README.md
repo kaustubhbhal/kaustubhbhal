@@ -22,9 +22,9 @@ topics: cloud video, graph ml, cv, simulation
 build style: prototype fast, make it real later
 ```
 
-### selected stuff
+### some projects
 
-- [`contextually`](https://github.com/kaustubhbhal/contextually) — devtooling for making context switching less annoying
+- [`contextually`](https://github.com/kaustubhbhal/contextually) — tooling for making context switching less annoying
 - [`MedGraph`](https://github.com/kaustubhbhal/MedGraph) — privacy-preserving disease progression prediction with graph neural networks
 - [`Black Swan`](https://github.com/kaustubhbhal/Black-Swan) — portfolio stress testing with monte carlo simulation and AI
 - [`GraphIQ`](https://github.com/kaustubhbhal/GraphIQ) — conversational visual learning with generated diagrams
@@ -40,21 +40,9 @@ build style: prototype fast, make it real later
 ![Postgres](https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### recent signal
-
-![Flock](https://img.shields.io/badge/current-cloud%20video%20at%20flock-111827?style=flat-square&labelColor=38BDF8&color=0f172a)
-![Hacklytics](https://img.shields.io/badge/hacklytics-finance%20winner-111827?style=flat-square&labelColor=F59E0B&color=0f172a)
-![Graphs](https://img.shields.io/badge/focus-graphs%20%2B%20systems-111827?style=flat-square&labelColor=A855F7&color=0f172a)
-![Weekend Builds](https://img.shields.io/badge/mode-suspiciously%20serious%20weekend%20builds-111827?style=flat-square&labelColor=22C55E&color=0f172a)
-
 ### github
 
 <p>
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhbhal&theme=github_dark&hide_border=true&layout=compact&langs_count=8&hide=html,css,jupyter%20notebook"
-    alt="Top languages for kaustubhbhal"
-  />
   <img
     height="170"
     src="https://streak-stats.demolab.com?user=kaustubhbhal&theme=github-dark-blue&hide_border=true"
