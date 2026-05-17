@@ -1,8 +1,14 @@
 # hi! i'm Kaustubh
 
-currently working on the video pipeline @ flock
+### currently
 
-i'm usually building projects in AI, systems, networking, data, and anything that I think would be fun
+studying cs + business at georgia tech
+
+a fellow at kleiner perkins
+
+working on the video pipeline @ flock
+
+building projects in AI, systems, networking, data, and anything that I think would be fun
 
 <p>
   <a href="https://www.linkedin.com/in/kaustubh-bhal/">
@@ -13,16 +19,7 @@ i'm usually building projects in AI, systems, networking, data, and anything tha
   </a>
 </p>
 
-```txt
-current settings
-----------------
-location: atlanta
-languages: python, typescript
-topics: cloud video, graph ml, cv, simulation
-build style: prototype fast, make it real later
-```
-
-### some projects
+### some recent projects
 
 - [`contextually`](https://github.com/kaustubhbhal/contextually) — tooling for making context switching less annoying
 - [`MedGraph`](https://github.com/kaustubhbhal/MedGraph) — privacy-preserving disease progression prediction with graph neural networks
