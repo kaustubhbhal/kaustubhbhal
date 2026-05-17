@@ -4,11 +4,11 @@
 
 studying cs + business at georgia tech
 
-a fellow at kleiner perkins
+s'26 engineering fellow at kleiner perkins
 
 working on the video pipeline @ flock
 
-building projects in AI, systems, networking, data, and anything that I think would be fun
+building projects in AI, systems, networking, data, and anything that I think would be fun and impactful
 
 <p>
   <a href="https://www.linkedin.com/in/kaustubh-bhal/">
@@ -46,3 +46,16 @@ building projects in AI, systems, networking, data, and anything that I think wo
     alt="GitHub streak for kaustubhbhal"
   />
 </p>
+
+### interested in
+
+the context switching problem
+QUIC
+startups
+formula 1
+skiing
+music of any kind
+
+
+
+
