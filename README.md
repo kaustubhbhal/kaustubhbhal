@@ -26,18 +26,3 @@ usually somewhere around AI, systems, data, and hackathon projects
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### github
-
-<p>
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhbhal&theme=github_dark&hide_border=true&layout=compact&langs_count=8&hide=html,css,jupyter%20notebook"
-    alt="Top languages for kaustubhbhal"
-  />
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=kaustubhbhal&theme=github-dark-blue&hide_border=true"
-    alt="GitHub streak for kaustubhbhal"
-  />
-</p>
